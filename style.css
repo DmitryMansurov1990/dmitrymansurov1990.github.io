@@ -1,0 +1,15 @@
+p {
+color: pink;
+}
+
+li {
+color: green;
+}
+
+#private-info {
+text-align: right;
+}
+
+.work-experience {
+background-color: yellow;
+}
